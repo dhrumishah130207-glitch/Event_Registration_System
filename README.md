@@ -1,3 +1,4 @@
+# 🎫 Registry Terminal | Event Management System
 A minimalist, high-contrast event registration system featuring a Flask backend, MySQL persistence, and a modern "Glassmorphism" frontend. This system generates unique QR-coded digital passes and provides an administrative dashboard for real-time participant tracking.
 
 ## ✨ Features
